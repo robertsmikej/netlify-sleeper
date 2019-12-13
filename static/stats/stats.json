@@ -1129,6 +1129,22 @@
             "projected": "116.10",
             "win": false,
             "opponent": "robertsmikej"
+        },
+        "ILOVEATM": {
+            "week": 13,
+            "name": "ILOVEATM",
+            "points": "NaN",
+            "projected": "NaN",
+            "win": false,
+            "opponent": "bye"
+        },
+        "HundoP": {
+            "week": 14,
+            "name": "HundoP",
+            "points": "NaN",
+            "projected": "NaN",
+            "win": false,
+            "opponent": "bye"
         }
     },
     "15": {},

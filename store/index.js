@@ -19,7 +19,7 @@ export const state = () => ({
 
 let colors = [
     "#0074D9",
-    "7FDBFF",
+    "#7FDBFF",
     "#39CCCC",
     "#2ECC40",
     "#FFDC00",
@@ -48,6 +48,7 @@ export const mutations = {
                 if (teamname.length > 3) {
                     if (!newObj.hasOwnProperty(teamname)) {
                         newObj[teamname] = {
+                            name: teamname,
                             overallPoints: 0,
                             avgPoints: 0,
                             newData: {
@@ -84,6 +85,8 @@ export const mutations = {
                             data: []
                         };
                     }
+                    // console.log(parseInt(team.points));
+                    
                     newObj[teamname]["dataset"].data.push(parseInt(team.points));
                     count++;
                 }
@@ -96,7 +99,9 @@ export const mutations = {
             let player = newObj[p];
             let points = 0;
             for (let w in player.weeks) {
-                points += parseInt(player.weeks[w].points);
+                if (!isNaN(player.weeks[w].points)) {
+                    points += parseInt(player.weeks[w].points);
+                }
             }
             player.overallPoints = points;
             player.avgPoints = points / currentWeek;

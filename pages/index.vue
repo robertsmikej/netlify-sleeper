@@ -6,7 +6,7 @@
 
         <div class="chart__container points__chart">
             <h2>Points Over Season</h2>
-            <LineChart :data="chartData.line.chartdata" :options="chartData.line.options" class="chart"/>
+            <LineChart :data="chartData.line1.chartdata" :options="chartData.line1.options" class="chart"/>
         </div>
         <div class="chart__side__by__side">
             <div class="chart__container total__points">
@@ -17,6 +17,10 @@
                 <h2>Avg. Points Per Game</h2>
                 <BarChart :data="chartData.bar2.chartdata" :options="chartData.bar2.options" class="chart"/>
             </div>
+        </div>
+        <div class="chart__container points__chart grizzly_chart">
+            <h2>Grizzly Rapins</h2>
+            <LineChart :data="chartData.line2.chartdata" :options="chartData.line2.options" class="chart"/>
         </div>
     </main>
 </template>
@@ -53,6 +57,7 @@ export default {
                     let player = playerData[p];
                     newarr.push(player.dataset);
                 }
+                // console.log(newarr);
                 return newarr;
             };
             let totalPerGame = function () {
@@ -71,8 +76,26 @@ export default {
                 }
                 return newarr;
             };
+            let grizRapes = function () {
+                let newarr = [];
+                let opponentDataset = {data: [], label: "opponent", backgroundColor: 'transparent', borderColor: "#FFDC00"};
+                for (let p in playerData) {
+                    let raper = playerData[p];
+                    if (raper.name === "grizzlydicks") {
+                        newarr.push(raper.dataset);
+                    }
+                    for (let w in raper.weeks) {
+                        let week = raper.weeks[w];
+                        if (week.opponent === "grizzlydicks") {
+                            opponentDataset.data.push(week.points);
+                        }
+                    }
+                }
+                newarr.push(opponentDataset);
+                return newarr;
+            };
             return {
-                line: {
+                line1: {
                     chartdata: {
                         labels: labels,
                         datasets: playerLineArr()
@@ -81,6 +104,35 @@ export default {
                         responsive: true,
                         maintainAspectRatio: false,
                         lineTension: 1,
+                        spanGaps: true,
+                        scales: {
+                            yAxes: [{
+                                ticks: {
+                                    suggestedMin: 50,
+                                    suggestedMax: 220,
+                                    padding: 25,
+                                }
+                            }],
+                            xAxes: [{
+                                ticks: {
+                                    suggestedMin: 50,
+                                    suggestedMax: 220,
+                                    padding: 25,
+                                }
+                            }]
+                        }
+                    }
+                },
+                line2: {
+                    chartdata: {
+                        labels: labels,
+                        datasets: grizRapes()
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        lineTension: 1,
+                        spanGaps: true,
                         scales: {
                             yAxes: [{
                                 ticks: {
@@ -168,6 +220,7 @@ main {
 }
 .chart__container {
     width: 96%;
+    max-width: 1800px;
     margin: 20px auto;
     padding: 10px;
 }

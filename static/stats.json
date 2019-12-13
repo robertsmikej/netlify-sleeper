@@ -1,0 +1,1137 @@
+{
+    "1": {
+        "jacjacattack": {
+            "week": 1,
+            "name": "jacjacattack",
+            "points": "172.20",
+            "projected": "148.10",
+            "win": true,
+            "opponent": "grizzlydicks"
+        },
+        "grizzlydicks": {
+            "week": 1,
+            "name": "grizzlydicks",
+            "points": "130.30",
+            "projected": "138.17",
+            "win": false,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 1,
+            "name": "superbowlshffle",
+            "points": "194.76",
+            "projected": "158.68",
+            "win": true,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 1,
+            "name": "robertsmikej",
+            "points": "176.02",
+            "projected": "156.91",
+            "win": false,
+            "opponent": "superbowlshffle"
+        },
+        "HundoP": {
+            "week": 1,
+            "name": "HundoP",
+            "points": "101.20",
+            "projected": "122.80",
+            "win": false,
+            "opponent": "niklewis"
+        },
+        "niklewis": {
+            "week": 1,
+            "name": "niklewis",
+            "points": "148.34",
+            "projected": "119.75",
+            "win": true,
+            "opponent": "HundoP"
+        },
+        "aflo5": {
+            "week": 1,
+            "name": "aflo5",
+            "points": "100.94",
+            "projected": "138.24",
+            "win": false,
+            "opponent": "donday"
+        },
+        "donday": {
+            "week": 1,
+            "name": "donday",
+            "points": "152.32",
+            "projected": "134.61",
+            "win": true,
+            "opponent": "aflo5"
+        },
+        "ILOVEATM": {
+            "week": 1,
+            "name": "ILOVEATM",
+            "points": "110.80",
+            "projected": "129.43",
+            "win": false,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 1,
+            "name": "jakegreiss",
+            "points": "154.22",
+            "projected": "136.88",
+            "win": true,
+            "opponent": "ILOVEATM"
+        }
+    },
+    "2": {
+        "jacjacattack": {
+            "week": 2,
+            "name": "jacjacattack",
+            "points": "132.06",
+            "projected": "136.73",
+            "win": true,
+            "opponent": "HundoP"
+        },
+        "HundoP": {
+            "week": 2,
+            "name": "HundoP",
+            "points": "129.90",
+            "projected": "150.10",
+            "win": false,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 2,
+            "name": "superbowlshffle",
+            "points": "164.18",
+            "projected": "154.69",
+            "win": true,
+            "opponent": "grizzlydicks"
+        },
+        "grizzlydicks": {
+            "week": 2,
+            "name": "grizzlydicks",
+            "points": "150.92",
+            "projected": "153.04",
+            "win": false,
+            "opponent": "superbowlshffle"
+        },
+        "aflo5": {
+            "week": 2,
+            "name": "aflo5",
+            "points": "137.42",
+            "projected": "134.95",
+            "win": true,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 2,
+            "name": "jakegreiss",
+            "points": "87.46",
+            "projected": "149.14",
+            "win": false,
+            "opponent": "aflo5"
+        },
+        "donday": {
+            "week": 2,
+            "name": "donday",
+            "points": "127.66",
+            "projected": "130.05",
+            "win": true,
+            "opponent": "ILOVEATM"
+        },
+        "ILOVEATM": {
+            "week": 2,
+            "name": "ILOVEATM",
+            "points": "83.82",
+            "projected": "115.41",
+            "win": false,
+            "opponent": "donday"
+        },
+        "niklewis": {
+            "week": 2,
+            "name": "niklewis",
+            "points": "143.26",
+            "projected": "150.31",
+            "win": false,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 2,
+            "name": "robertsmikej",
+            "points": "152.04",
+            "projected": "161.22",
+            "win": true,
+            "opponent": "niklewis"
+        }
+    },
+    "3": {
+        "jacjacattack": {
+            "week": 3,
+            "name": "jacjacattack",
+            "points": "170.24",
+            "projected": "157.10",
+            "win": true,
+            "opponent": "niklewis"
+        },
+        "niklewis": {
+            "week": 3,
+            "name": "niklewis",
+            "points": "121.34",
+            "projected": "120.41",
+            "win": false,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 3,
+            "name": "superbowlshffle",
+            "points": "173.88",
+            "projected": "163.50",
+            "win": true,
+            "opponent": "HundoP"
+        },
+        "HundoP": {
+            "week": 3,
+            "name": "HundoP",
+            "points": "105.82",
+            "projected": "139.94",
+            "win": false,
+            "opponent": "superbowlshffle"
+        },
+        "aflo5": {
+            "week": 3,
+            "name": "aflo5",
+            "points": "110.02",
+            "projected": "145.01",
+            "win": true,
+            "opponent": "ILOVEATM"
+        },
+        "ILOVEATM": {
+            "week": 3,
+            "name": "ILOVEATM",
+            "points": "104.96",
+            "projected": "118.47",
+            "win": false,
+            "opponent": "aflo5"
+        },
+        "grizzlydicks": {
+            "week": 3,
+            "name": "grizzlydicks",
+            "points": "143.86",
+            "projected": "142.33",
+            "win": true,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 3,
+            "name": "robertsmikej",
+            "points": "112.18",
+            "projected": "143.69",
+            "win": false,
+            "opponent": "grizzlydicks"
+        },
+        "donday": {
+            "week": 3,
+            "name": "donday",
+            "points": "191.80",
+            "projected": "174.44",
+            "win": true,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 3,
+            "name": "jakegreiss",
+            "points": "149.24",
+            "projected": "144.77",
+            "win": false,
+            "opponent": "donday"
+        }
+    },
+    "4": {
+        "jacjacattack": {
+            "week": 4,
+            "name": "jacjacattack",
+            "points": "145.20",
+            "projected": "160.66",
+            "win": false,
+            "opponent": "aflo5"
+        },
+        "aflo5": {
+            "week": 4,
+            "name": "aflo5",
+            "points": "159.28",
+            "projected": "146.18",
+            "win": true,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 4,
+            "name": "superbowlshffle",
+            "points": "124.58",
+            "projected": "160.42",
+            "win": false,
+            "opponent": "niklewis"
+        },
+        "niklewis": {
+            "week": 4,
+            "name": "niklewis",
+            "points": "165.90",
+            "projected": "109.98",
+            "win": true,
+            "opponent": "superbowlshffle"
+        },
+        "HundoP": {
+            "week": 4,
+            "name": "HundoP",
+            "points": "160.00",
+            "projected": "120.00",
+            "win": true,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 4,
+            "name": "jakegreiss",
+            "points": "136.10",
+            "projected": "149.99",
+            "win": false,
+            "opponent": "HundoP"
+        },
+        "grizzlydicks": {
+            "week": 4,
+            "name": "grizzlydicks",
+            "points": "119.60",
+            "projected": "132.02",
+            "win": true,
+            "opponent": "donday"
+        },
+        "donday": {
+            "week": 4,
+            "name": "donday",
+            "points": "90.18",
+            "projected": "139.04",
+            "win": false,
+            "opponent": "grizzlydicks"
+        },
+        "ILOVEATM": {
+            "week": 4,
+            "name": "ILOVEATM",
+            "points": "103.00",
+            "projected": "105.99",
+            "win": false,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 4,
+            "name": "robertsmikej",
+            "points": "128.90",
+            "projected": "143.15",
+            "win": true,
+            "opponent": "ILOVEATM"
+        }
+    },
+    "5": {
+        "jacjacattack": {
+            "week": 5,
+            "name": "jacjacattack",
+            "points": "150.82",
+            "projected": "158.01",
+            "win": true,
+            "opponent": "donday"
+        },
+        "donday": {
+            "week": 5,
+            "name": "donday",
+            "points": "116.42",
+            "projected": "139.63",
+            "win": false,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 5,
+            "name": "superbowlshffle",
+            "points": "161.96",
+            "projected": "156.53",
+            "win": true,
+            "opponent": "ILOVEATM"
+        },
+        "ILOVEATM": {
+            "week": 5,
+            "name": "ILOVEATM",
+            "points": "157.16",
+            "projected": "127.35",
+            "win": false,
+            "opponent": "superbowlshffle"
+        },
+        "HundoP": {
+            "week": 5,
+            "name": "HundoP",
+            "points": "129.94",
+            "projected": "133.25",
+            "win": true,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 5,
+            "name": "robertsmikej",
+            "points": "111.86",
+            "projected": "135.00",
+            "win": false,
+            "opponent": "HundoP"
+        },
+        "aflo5": {
+            "week": 5,
+            "name": "aflo5",
+            "points": "166.40",
+            "projected": "138.37",
+            "win": false,
+            "opponent": "grizzlydicks"
+        },
+        "grizzlydicks": {
+            "week": 5,
+            "name": "grizzlydicks",
+            "points": "204.04",
+            "projected": "147.95",
+            "win": true,
+            "opponent": "aflo5"
+        },
+        "niklewis": {
+            "week": 5,
+            "name": "niklewis",
+            "points": "132.12",
+            "projected": "129.59",
+            "win": false,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 5,
+            "name": "jakegreiss",
+            "points": "142.14",
+            "projected": "152.15",
+            "win": true,
+            "opponent": "niklewis"
+        }
+    },
+    "6": {
+        "jacjacattack": {
+            "week": 6,
+            "name": "jacjacattack",
+            "points": "156.40",
+            "projected": "162.00",
+            "win": true,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 6,
+            "name": "robertsmikej",
+            "points": "153.40",
+            "projected": "158.59",
+            "win": false,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 6,
+            "name": "superbowlshffle",
+            "points": "98.84",
+            "projected": "154.08",
+            "win": false,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 6,
+            "name": "jakegreiss",
+            "points": "169.40",
+            "projected": "157.56",
+            "win": true,
+            "opponent": "superbowlshffle"
+        },
+        "HundoP": {
+            "week": 6,
+            "name": "HundoP",
+            "points": "130.70",
+            "projected": "121.01",
+            "win": true,
+            "opponent": "aflo5"
+        },
+        "aflo5": {
+            "week": 6,
+            "name": "aflo5",
+            "points": "112.22",
+            "projected": "115.12",
+            "win": false,
+            "opponent": "HundoP"
+        },
+        "grizzlydicks": {
+            "week": 6,
+            "name": "grizzlydicks",
+            "points": "118.52",
+            "projected": "139.68",
+            "win": false,
+            "opponent": "ILOVEATM"
+        },
+        "ILOVEATM": {
+            "week": 6,
+            "name": "ILOVEATM",
+            "points": "125.40",
+            "projected": "135.90",
+            "win": true,
+            "opponent": "grizzlydicks"
+        },
+        "donday": {
+            "week": 6,
+            "name": "donday",
+            "points": "120.72",
+            "projected": "143.58",
+            "win": true,
+            "opponent": "niklewis"
+        },
+        "niklewis": {
+            "week": 6,
+            "name": "niklewis",
+            "points": "115.36",
+            "projected": "145.26",
+            "win": false,
+            "opponent": "donday"
+        }
+    },
+    "7": {
+        "jacjacattack": {
+            "week": 7,
+            "name": "jacjacattack",
+            "points": "108.84",
+            "projected": "139.72",
+            "win": true,
+            "opponent": "ILOVEATM"
+        },
+        "ILOVEATM": {
+            "week": 7,
+            "name": "ILOVEATM",
+            "points": "103.52",
+            "projected": "133.05",
+            "win": false,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 7,
+            "name": "superbowlshffle",
+            "points": "150.82",
+            "projected": "136.21",
+            "win": false,
+            "opponent": "donday"
+        },
+        "donday": {
+            "week": 7,
+            "name": "donday",
+            "points": "174.76",
+            "projected": "138.29",
+            "win": true,
+            "opponent": "superbowlshffle"
+        },
+        "HundoP": {
+            "week": 7,
+            "name": "HundoP",
+            "points": "80.52",
+            "projected": "132.74",
+            "win": false,
+            "opponent": "grizzlydicks"
+        },
+        "grizzlydicks": {
+            "week": 7,
+            "name": "grizzlydicks",
+            "points": "98.94",
+            "projected": "146.77",
+            "win": true,
+            "opponent": "HundoP"
+        },
+        "aflo5": {
+            "week": 7,
+            "name": "aflo5",
+            "points": "87.38",
+            "projected": "112.22",
+            "win": false,
+            "opponent": "niklewis"
+        },
+        "niklewis": {
+            "week": 7,
+            "name": "niklewis",
+            "points": "127.46",
+            "projected": "142.24",
+            "win": true,
+            "opponent": "aflo5"
+        },
+        "robertsmikej": {
+            "week": 7,
+            "name": "robertsmikej",
+            "points": "97.86",
+            "projected": "117.57",
+            "win": false,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 7,
+            "name": "jakegreiss",
+            "points": "120.12",
+            "projected": "143.36",
+            "win": true,
+            "opponent": "robertsmikej"
+        }
+    },
+    "8": {
+        "jacjacattack": {
+            "week": 8,
+            "name": "jacjacattack",
+            "points": "141.88",
+            "projected": "146.90",
+            "win": false,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 8,
+            "name": "jakegreiss",
+            "points": "181.26",
+            "projected": "171.98",
+            "win": true,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 8,
+            "name": "superbowlshffle",
+            "points": "158.36",
+            "projected": "139.01",
+            "win": true,
+            "opponent": "aflo5"
+        },
+        "aflo5": {
+            "week": 8,
+            "name": "aflo5",
+            "points": "141.66",
+            "projected": "132.03",
+            "win": false,
+            "opponent": "superbowlshffle"
+        },
+        "HundoP": {
+            "week": 8,
+            "name": "HundoP",
+            "points": "143.54",
+            "projected": "137.62",
+            "win": true,
+            "opponent": "ILOVEATM"
+        },
+        "ILOVEATM": {
+            "week": 8,
+            "name": "ILOVEATM",
+            "points": "133.30",
+            "projected": "124.27",
+            "win": false,
+            "opponent": "HundoP"
+        },
+        "grizzlydicks": {
+            "week": 8,
+            "name": "grizzlydicks",
+            "points": "192.08",
+            "projected": "152.11",
+            "win": true,
+            "opponent": "niklewis"
+        },
+        "niklewis": {
+            "week": 8,
+            "name": "niklewis",
+            "points": "99.46",
+            "projected": "137.83",
+            "win": false,
+            "opponent": "grizzlydicks"
+        },
+        "donday": {
+            "week": 8,
+            "name": "donday",
+            "points": "114.00",
+            "projected": "138.23",
+            "win": false,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 8,
+            "name": "robertsmikej",
+            "points": "131.30",
+            "projected": "148.92",
+            "win": true,
+            "opponent": "donday"
+        }
+    },
+    "9": {
+        "jacjacattack": {
+            "week": 9,
+            "name": "jacjacattack",
+            "points": "173.72",
+            "projected": "134.46",
+            "win": true,
+            "opponent": "superbowlshffle"
+        },
+        "superbowlshffle": {
+            "week": 9,
+            "name": "superbowlshffle",
+            "points": "153.42",
+            "projected": "143.64",
+            "win": false,
+            "opponent": "jacjacattack"
+        },
+        "HundoP": {
+            "week": 9,
+            "name": "HundoP",
+            "points": "134.76",
+            "projected": "125.84",
+            "win": false,
+            "opponent": "donday"
+        },
+        "donday": {
+            "week": 9,
+            "name": "donday",
+            "points": "143.64",
+            "projected": "136.49",
+            "win": true,
+            "opponent": "HundoP"
+        },
+        "aflo5": {
+            "week": 9,
+            "name": "aflo5",
+            "points": "125.10",
+            "projected": "119.16",
+            "win": false,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 9,
+            "name": "robertsmikej",
+            "points": "155.96",
+            "projected": "136.09",
+            "win": true,
+            "opponent": "aflo5"
+        },
+        "grizzlydicks": {
+            "week": 9,
+            "name": "grizzlydicks",
+            "points": "96.24",
+            "projected": "135.29",
+            "win": false,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 9,
+            "name": "jakegreiss",
+            "points": "152.84",
+            "projected": "156.68",
+            "win": true,
+            "opponent": "grizzlydicks"
+        },
+        "niklewis": {
+            "week": 9,
+            "name": "niklewis",
+            "points": "126.50",
+            "projected": "108.72",
+            "win": false,
+            "opponent": "ILOVEATM"
+        },
+        "ILOVEATM": {
+            "week": 9,
+            "name": "ILOVEATM",
+            "points": "128.30",
+            "projected": "127.14",
+            "win": true,
+            "opponent": "niklewis"
+        }
+    },
+    "10": {
+        "jacjacattack": {
+            "week": 10,
+            "name": "jacjacattack",
+            "points": "101.58",
+            "projected": "135.76",
+            "win": false,
+            "opponent": "grizzlydicks"
+        },
+        "grizzlydicks": {
+            "week": 10,
+            "name": "grizzlydicks",
+            "points": "131.94",
+            "projected": "119.24",
+            "win": true,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 10,
+            "name": "superbowlshffle",
+            "points": "202.72",
+            "projected": "151.77",
+            "win": true,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 10,
+            "name": "robertsmikej",
+            "points": "192.26",
+            "projected": "152.90",
+            "win": false,
+            "opponent": "superbowlshffle"
+        },
+        "HundoP": {
+            "week": 10,
+            "name": "HundoP",
+            "points": "97.88",
+            "projected": "138.31",
+            "win": false,
+            "opponent": "niklewis"
+        },
+        "niklewis": {
+            "week": 10,
+            "name": "niklewis",
+            "points": "146.74",
+            "projected": "123.32",
+            "win": true,
+            "opponent": "HundoP"
+        },
+        "aflo5": {
+            "week": 10,
+            "name": "aflo5",
+            "points": "152.64",
+            "projected": "144.77",
+            "win": true,
+            "opponent": "donday"
+        },
+        "donday": {
+            "week": 10,
+            "name": "donday",
+            "points": "101.82",
+            "projected": "123.95",
+            "win": false,
+            "opponent": "aflo5"
+        },
+        "ILOVEATM": {
+            "week": 10,
+            "name": "ILOVEATM",
+            "points": "108.48",
+            "projected": "123.11",
+            "win": false,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 10,
+            "name": "jakegreiss",
+            "points": "137.72",
+            "projected": "142.62",
+            "win": true,
+            "opponent": "ILOVEATM"
+        }
+    },
+    "11": {
+        "jacjacattack": {
+            "week": 11,
+            "name": "jacjacattack",
+            "points": "138.96",
+            "projected": "151.11",
+            "win": true,
+            "opponent": "HundoP"
+        },
+        "HundoP": {
+            "week": 11,
+            "name": "HundoP",
+            "points": "96.32",
+            "projected": "119.54",
+            "win": false,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 11,
+            "name": "superbowlshffle",
+            "points": "143.78",
+            "projected": "153.19",
+            "win": true,
+            "opponent": "grizzlydicks"
+        },
+        "grizzlydicks": {
+            "week": 11,
+            "name": "grizzlydicks",
+            "points": "88.68",
+            "projected": "139.80",
+            "win": false,
+            "opponent": "superbowlshffle"
+        },
+        "aflo5": {
+            "week": 11,
+            "name": "aflo5",
+            "points": "124.54",
+            "projected": "150.12",
+            "win": false,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 11,
+            "name": "jakegreiss",
+            "points": "143.16",
+            "projected": "164.08",
+            "win": true,
+            "opponent": "aflo5"
+        },
+        "donday": {
+            "week": 11,
+            "name": "donday",
+            "points": "115.48",
+            "projected": "129.98",
+            "win": true,
+            "opponent": "ILOVEATM"
+        },
+        "ILOVEATM": {
+            "week": 11,
+            "name": "ILOVEATM",
+            "points": "99.62",
+            "projected": "121.31",
+            "win": false,
+            "opponent": "donday"
+        },
+        "niklewis": {
+            "week": 11,
+            "name": "niklewis",
+            "points": "125.56",
+            "projected": "126.56",
+            "win": false,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 11,
+            "name": "robertsmikej",
+            "points": "177.56",
+            "projected": "138.82",
+            "win": true,
+            "opponent": "niklewis"
+        }
+    },
+    "12": {
+        "jacjacattack": {
+            "week": 12,
+            "name": "jacjacattack",
+            "points": "144.40",
+            "projected": "131.63",
+            "win": true,
+            "opponent": "niklewis"
+        },
+        "niklewis": {
+            "week": 12,
+            "name": "niklewis",
+            "points": "107.78",
+            "projected": "110.30",
+            "win": false,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 12,
+            "name": "superbowlshffle",
+            "points": "136.16",
+            "projected": "138.26",
+            "win": true,
+            "opponent": "HundoP"
+        },
+        "HundoP": {
+            "week": 12,
+            "name": "HundoP",
+            "points": "87.94",
+            "projected": "125.93",
+            "win": false,
+            "opponent": "superbowlshffle"
+        },
+        "aflo5": {
+            "week": 12,
+            "name": "aflo5",
+            "points": "161.30",
+            "projected": "145.85",
+            "win": true,
+            "opponent": "ILOVEATM"
+        },
+        "ILOVEATM": {
+            "week": 12,
+            "name": "ILOVEATM",
+            "points": "118.84",
+            "projected": "119.35",
+            "win": false,
+            "opponent": "aflo5"
+        },
+        "grizzlydicks": {
+            "week": 12,
+            "name": "grizzlydicks",
+            "points": "151.98",
+            "projected": "141.29",
+            "win": false,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 12,
+            "name": "robertsmikej",
+            "points": "184.62",
+            "projected": "147.04",
+            "win": true,
+            "opponent": "grizzlydicks"
+        },
+        "donday": {
+            "week": 12,
+            "name": "donday",
+            "points": "93.46",
+            "projected": "131.78",
+            "win": false,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 12,
+            "name": "jakegreiss",
+            "points": "104.22",
+            "projected": "150.79",
+            "win": true,
+            "opponent": "donday"
+        }
+    },
+    "13": {
+        "jacjacattack": {
+            "week": 13,
+            "name": "jacjacattack",
+            "points": "122.44",
+            "projected": "135.82",
+            "win": false,
+            "opponent": "aflo5"
+        },
+        "aflo5": {
+            "week": 13,
+            "name": "aflo5",
+            "points": "137.74",
+            "projected": "146.34",
+            "win": true,
+            "opponent": "jacjacattack"
+        },
+        "superbowlshffle": {
+            "week": 13,
+            "name": "superbowlshffle",
+            "points": "126.00",
+            "projected": "149.45",
+            "win": false,
+            "opponent": "niklewis"
+        },
+        "niklewis": {
+            "week": 13,
+            "name": "niklewis",
+            "points": "161.58",
+            "projected": "128.01",
+            "win": true,
+            "opponent": "superbowlshffle"
+        },
+        "HundoP": {
+            "week": 13,
+            "name": "HundoP",
+            "points": "99.96",
+            "projected": "120.93",
+            "win": false,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 13,
+            "name": "jakegreiss",
+            "points": "116.06",
+            "projected": "156.80",
+            "win": true,
+            "opponent": "HundoP"
+        },
+        "grizzlydicks": {
+            "week": 13,
+            "name": "grizzlydicks",
+            "points": "141.80",
+            "projected": "151.78",
+            "win": true,
+            "opponent": "donday"
+        },
+        "donday": {
+            "week": 13,
+            "name": "donday",
+            "points": "100.32",
+            "projected": "126.86",
+            "win": false,
+            "opponent": "grizzlydicks"
+        },
+        "ILOVEATM": {
+            "week": 13,
+            "name": "ILOVEATM",
+            "points": "124.26",
+            "projected": "131.09",
+            "win": false,
+            "opponent": "robertsmikej"
+        },
+        "robertsmikej": {
+            "week": 13,
+            "name": "robertsmikej",
+            "points": "124.94",
+            "projected": "137.97",
+            "win": false,
+            "opponent": "ILOVEATM"
+        }
+    },
+    "14": {
+        "jacjacattack": {
+            "week": 14,
+            "name": "jacjacattack",
+            "points": "148.30",
+            "projected": "146.43",
+            "win": true,
+            "opponent": "superbowlshffle"
+        },
+        "superbowlshffle": {
+            "week": 14,
+            "name": "superbowlshffle",
+            "points": "136.00",
+            "projected": "134.77",
+            "win": false,
+            "opponent": "jacjacattack"
+        },
+        "aflo5": {
+            "week": 14,
+            "name": "aflo5",
+            "points": "131.14",
+            "projected": "133.55",
+            "win": true,
+            "opponent": "donday"
+        },
+        "donday": {
+            "week": 14,
+            "name": "donday",
+            "points": "116.80",
+            "projected": "123.68",
+            "win": false,
+            "opponent": "aflo5"
+        },
+        "grizzlydicks": {
+            "week": 14,
+            "name": "grizzlydicks",
+            "points": "147.12",
+            "projected": "148.75",
+            "win": true,
+            "opponent": "niklewis"
+        },
+        "niklewis": {
+            "week": 14,
+            "name": "niklewis",
+            "points": "140.14",
+            "projected": "142.61",
+            "win": false,
+            "opponent": "grizzlydicks"
+        },
+        "robertsmikej": {
+            "week": 14,
+            "name": "robertsmikej",
+            "points": "147.16",
+            "projected": "146.55",
+            "win": true,
+            "opponent": "jakegreiss"
+        },
+        "jakegreiss": {
+            "week": 14,
+            "name": "jakegreiss",
+            "points": "143.88",
+            "projected": "116.10",
+            "win": false,
+            "opponent": "robertsmikej"
+        }
+    },
+    "15": {},
+    "16": {},
+    "17": {}
+}

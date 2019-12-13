@@ -8,6 +8,7 @@ public_folder: /img
 collections:
   - name: 'sitewide'
     label: 'Sitewide'
+    identifier_field: name
     format: 'json'
     folder: 'assets/content/sitewide'
     create: true
@@ -17,4 +18,3 @@ collections:
     fields:
       - { label: 'Leauge Name', name: 'name', widget: 'string' }
       - { label: 'Leauge ID', name: 'id', widget: 'string' }
-      
